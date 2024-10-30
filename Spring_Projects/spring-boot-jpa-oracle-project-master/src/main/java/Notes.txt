@@ -1,0 +1,51 @@
+Install and setup Maven on your laptop. MAVEN_HOME
+Environment variables?
+Life cycle goals?
+Dependencies => Purpose
+What is Server?
+What is Tomcat?
+What is XML?
+What is JSON?
+Postgres/Oracle setup?
+Git commands?
+
+
+What is annotations?
+Metadata => data about data or some specific information
+
+
+XML based configuration   => Legacy application
+Annotations configuration =>
+
+Single .java   => multiple java files  => frameworks
+
+Hibernate =>
+
+
+House   =>
+
+Cement   => quality
+Sand
+steel
+tiles
+blocks
+
+
+400 tables
+
+
+Application
+
+Email/SMS  =>
+Location track
+User Registration
+Login
+Amazon Prime / Non-prime
+Prime Video
+
+Angad  => Diwali  => 1 years
+1.6 years
+Cement
+Steel
+Tiles
+Wiring
